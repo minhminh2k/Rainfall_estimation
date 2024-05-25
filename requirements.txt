@@ -1,0 +1,14 @@
+scikit-learn
+matplotlib
+pandas
+numpy
+seaborn
+tensorflow
+mediapipe
+opencv-python
+pyarrow
+ipykernel
+scipy
+keras
+gdal
+torch
